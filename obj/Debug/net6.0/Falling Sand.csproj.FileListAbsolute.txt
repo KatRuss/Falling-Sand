@@ -1,0 +1,21 @@
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Falling Sand.exe
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Falling Sand.deps.json
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Falling Sand.runtimeconfig.json
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Falling Sand.dll
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Falling Sand.pdb
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\Raylib-cs.dll
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+D:\Projects\Coding Projects\Falling Sand\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.csproj.AssemblyReference.cache
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.AssemblyInfoInputs.cache
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.AssemblyInfo.cs
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.csproj.CoreCompileInputs.cache
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.csproj.CopyComplete
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.dll
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\refint\Falling Sand.dll
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.pdb
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\Falling Sand.genruntimeconfig.cache
+D:\Projects\Coding Projects\Falling Sand\obj\Debug\net6.0\ref\Falling Sand.dll
